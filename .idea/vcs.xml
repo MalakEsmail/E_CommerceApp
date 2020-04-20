@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BottomNavigation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DialogFragement" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/E_Exam" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NotificationBadge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RecyclerViewListEx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/and-nd-firebase-1.00-starting-point" vcs="Git" />
+  </component>
+</project>
